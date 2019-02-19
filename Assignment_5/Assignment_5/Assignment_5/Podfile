@@ -1,0 +1,20 @@
+platform :ios, '10.0'
+
+target 'Assignment_5' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+    use_frameworks!
+
+  # Pods for Assignment_5
+  pod 'Alamofire'
+
+  target 'Assignment_5Tests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'Assignment_5UITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
