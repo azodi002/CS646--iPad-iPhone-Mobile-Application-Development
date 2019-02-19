@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "1j7-HB-v7p"; */
+"Name_Label" = "Name:";
+
+/* Class = "UIButton"; normalTitle = "Tabs"; ObjectID = "JIl-Dn-oPp"; */
+"Tab_Label" = "Tabs";
+
+/* Class = "UILabel"; text = "State Capital:"; ObjectID = "P0o-kf-VXH"; */
+"P0o-kf-VXH.text" = "State Capital:";
+
+/* Class = "UILabel"; text = "State Date:"; ObjectID = "Q7f-7F-fYP"; */
+"Q7f-7F-fYP.text" = "State Date:";
+
+/* Class = "UIButton"; normalTitle = "States"; ObjectID = "TdK-qq-RMx"; */
+"State_Label" = "States";
+
+/* Class = "UILabel"; text = "Name:"; ObjectID = "W8F-CG-bXl"; */
+"W8F-CG-bXl.text" = "Name:";
+
+/* Class = "UILabel"; text = "State Name:"; ObjectID = "X6G-36-v7o"; */
+"X6G-36-v7o.text" = "State Name:";
+
+/* Class = "UITabBarItem"; title = "Sports"; ObjectID = "aDE-s3-SvG"; */
+"aDE-s3-SvG.title" = "Sports";
+
+/* Class = "UILabel"; text = "State Abbreviation:"; ObjectID = "ahZ-nq-fFS"; */
+"ahZ-nq-fFS.text" = "State Abbreviation:";
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "dGA-yp-tlC"; */
+"Password_Label" = "Password:";
+
+/* Class = "UIButton"; normalTitle = "Back to States"; ObjectID = "fAT-Wj-D4o"; */
+"fAT-Wj-D4o.normalTitle" = "Back to States";
+
+/* Class = "UITabBarItem"; title = "Name"; ObjectID = "rKa-hh-l7t"; */
+"rKa-hh-l7t.title" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Back To Login"; ObjectID = "rfb-61-XtB"; */
+"rfb-61-XtB.normalTitle" = "Back To Login";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "vt5-gY-o1k"; */
+"vt5-gY-o1k.normalTitle" = "Back";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "vyP-P6-pXv"; */
+"vyP-P6-pXv.title" = "Map";

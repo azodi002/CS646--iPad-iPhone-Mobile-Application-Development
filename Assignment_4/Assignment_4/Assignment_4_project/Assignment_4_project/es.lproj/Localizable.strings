@@ -1,0 +1,13 @@
+/*
+ Localizable.strings
+ Assignment_4_project
+ 
+ Created by Omid Azodi on 10/29/18.
+ Copyright © 2018 Omid Azodi. All rights reserved.
+ */
+
+
+"Name_Label" = "Nombre:";
+"Tab_Label" = "Pestañas";
+"State_Label" = "Estados";
+"Password_Label" = "Contraseña:";
